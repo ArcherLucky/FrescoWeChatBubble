@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\84113\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_809928009bfaa0794be8d6ae56cf23a9da1ba1a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_d691f2a12179f98b7724a2ac1cea262e1728992b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_6654c6f5c642736ff1ae2ae50e1fe6ea14f131a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_0fa7767aa9c2f204d91045c4aa5bdcf848eaa245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f152172a3e939249e1c7da3861731a9175e2b854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_fec22bce4de872dd2a1c8f1c3d53a5ab3ea81af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_2056422b4aadf61fa3b56bdf46a0ff0c573a0088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b8a1048a1127beb355a77d65dcc446bfa3ca93d">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.1.0_07fd31ced566675bcaa9abec58c1da0e0bcee733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.1.0_31384f8e4abcaf0705c682ffc7c5f1ede7338dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_8f546395f9d3963e7f2a752176df32428498c4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_b742705f60aef4a2329bc4b74fc13aa9ca5767ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ee4d51328f45035e84fc92d03c9e6aeb8d343603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_19a3abdb7627b48e05f253e7b456d97f6b1f7f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_2f19d54c1affecc18793734a0d26ee053e1c7b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="536f64f93222b3d004c884c73ddd8e416108da11">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.1.0_242cacd9e1c6bd7f33ec6dd8c0782fe84c92bd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03881e5c9573abec8007769ffb348356233854c7">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.1.0_bd5554168b3986f1ccee5b9990fed7344a9fd4cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_767216e835e2ea8744d71b7ea2c5505c5a49ae49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e9424b8134f943a9fc0537cffe0c2396a9c77b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\84113\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_2bccfd7bc05bede150eabbb3aba3170167eff380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_609715fdc5eb0986180d06bd79e39f430e3ac7bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcca411028f175f034d209ca24a694c46a88eb03">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.1.0_041d596448464e0b16afb4232e59dcc639bec8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_b5569bb229e69f37308b8cb0e2b23fd0edebb61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_cc1d905f0c62ae99c91d2cf35a4591cb20a84e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git_proj\WeChatBubbleImage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\git_proj\WeChatBubbleImage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_936d97a71baa1021449ab6daba34ad3344d6df86.jar" />
+    </item>
+
+</items>
