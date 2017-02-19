@@ -1,0 +1,2 @@
+# FrescoWeChatBubble
+用Fresco加载的仿微信聊天图片气泡效果Demo
